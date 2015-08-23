@@ -1,0 +1,40 @@
+# Site settings
+description: GovWizely company website
+baseurl: "" 
+url: "" 
+
+# User settings
+username: GovWizely
+user_description: GovWizely
+user_title: Enabling real-time big data exploration
+email: info@govwizely.com
+twitter_username: lorem_ipsum
+github_username:  govwizely
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About Us
+    url: /about
+  - title: Services
+    url: /services
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

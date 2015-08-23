@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>GovWizely company website</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 23 Aug 2015 16:03:46 -0400</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2015 16:03:46 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Sample Data</title>
+        <description>&lt;p&gt;Our APIs help the US government provide open data for US and international businesses.&lt;/p&gt; &lt;p&gt;Here is some sample data from ITA’s Market Research Library API:&lt;/p&gt; &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;total&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2174&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;offset&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;sources_used&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;source&amp;quot;&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:&amp;quot;ITA&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;source_last_updated&amp;quot;&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:&amp;quot;2015-08-23T00:13:29+00:00&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;last_imported&amp;quot;&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:&amp;quot;2015-08-23T19:13:13+00:00&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;results&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:&amp;quot;14265600&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;countries&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;MA&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;description&amp;quot;&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:&amp;quot;Opportunities for U.S. firms to provide products and services to Morocco, under the Millennium Challenge Compact.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;...</description>
+        <pubDate>Sat, 22 Aug 2015 23:32:44 -0400</pubDate>
+        <link>/sample-data/</link>
+        <guid isPermaLink="true">/sample-data/</guid>
+        
+        <category>api</category>
+        
+        <category>json</category>
+        
+        <category>endpoint</category>
+        
+        
+        <category>api</category>
+        
+        <category>json</category>
+        
+        <category>endpoint</category>
+        
+      </item>
+    
+      <item>
+        <title>Search Apps</title>
+        <description>&lt;p&gt;We have developed simple search apps designed to help our data customers easily explore the data that’s available at each endpoint. &lt;/p&gt;
+
+&lt;p&gt;Developers can also use the code for these demo apps as building-blocks for their own search applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://govwizely.github.io/explorer/#/consolidated-screening-list-entries&quot;&gt;Explorer App&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Aug 2015 23:32:44 -0400</pubDate>
+        <link>/how-to-use/</link>
+        <guid isPermaLink="true">/how-to-use/</guid>
+        
+        <category>search</category>
+        
+        <category>app</category>
+        
+        
+        <category>search</category>
+        
+        <category>app</category>
+        
+      </item>
+    
+  </channel>
+</rss>
