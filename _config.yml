@@ -1,6 +1,6 @@
 # Site settings
 description: GovWizely company website
-baseurl: "/gw-site" 
+baseurl: "http://ajsingh273.github.io/gw-site/" 
 url: "" 
 
 # User settings
