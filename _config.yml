@@ -30,11 +30,11 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: /gw-site/
+    url: /
   - title: About Us
-    url: /gw-site/about
+    url: /about
   - title: Services
-    url: /gw-site/services
+    url: /services
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
